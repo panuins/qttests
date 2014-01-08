@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>schrodingerscat.png</file>
+    </qresource>
+</RCC>
